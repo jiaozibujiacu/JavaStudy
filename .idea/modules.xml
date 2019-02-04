@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithmStudy/algorithmStudy.iml" filepath="$PROJECT_DIR$/algorithmStudy/algorithmStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionStudy/collectionStudy.iml" filepath="$PROJECT_DIR$/collectionStudy/collectionStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioStudy/ioStudy.iml" filepath="$PROJECT_DIR$/ioStudy/ioStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdaStudy/lambdaStudy.iml" filepath="$PROJECT_DIR$/lambdaStudy/lambdaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadStudy/threadStudy.iml" filepath="$PROJECT_DIR$/threadStudy/threadStudy.iml" />
+    </modules>
+  </component>
+</project>
