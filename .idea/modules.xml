@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/algorithmStudy/algorithmStudy.iml" filepath="$PROJECT_DIR$/algorithmStudy/algorithmStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/collectionStudy/collectionStudy.iml" filepath="$PROJECT_DIR$/collectionStudy/collectionStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ioStudy/ioStudy.iml" filepath="$PROJECT_DIR$/ioStudy/ioStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaOther/javaOther.iml" filepath="$PROJECT_DIR$/javaOther/javaOther.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdaStudy/lambdaStudy.iml" filepath="$PROJECT_DIR$/lambdaStudy/lambdaStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadStudy/threadStudy.iml" filepath="$PROJECT_DIR$/threadStudy/threadStudy.iml" />
     </modules>
